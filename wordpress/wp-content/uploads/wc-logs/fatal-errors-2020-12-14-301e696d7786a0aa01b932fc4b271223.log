@@ -1,0 +1,2 @@
+2020-12-14T11:51:41+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 151552 bytes) in C:\xampp\htdocs\TMDT_demo\wordpress\wp-includes\pomo\streams.php on line 215
+
